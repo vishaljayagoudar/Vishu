@@ -1,0 +1,19 @@
+git
+git init
+git config --global user.name "Jay.vishal"
+git config --global user.email "vishaljayagoudar@gmail.com"
+git config --list
+vi filename
+git status
+git add filename
+git commit -m "please check this"
+git log
+git remote add origin "url"
+git push origin master
+branch -it is stream where we are commuting our changes
+version control system- It is management of changes to documents or computer programs
+git branch branchname
+git checkout 
+fork- the methoed of copying the someone else private repository to our peoject is called git fork
+Git clone- git clone url
+rename - git mv sample1 sample2
